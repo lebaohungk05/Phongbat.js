@@ -51,4 +51,4 @@ const makeCommits = async (n) => {
 };
 
 // Tạo 50,000 commit ngẫu nhiên
-makeCommits(50000);
+makeCommits(1000000);
